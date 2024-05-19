@@ -1,6 +1,6 @@
 ReadMe do Projeto  
   
-A main está dentro da pasta "Projeto_de_Grafos_Pokemon".  
+A main está dentro da pasta "Trabalho Pokemon grafos".  
   
 Já que analisamos 4 grafos, temos 4 arquivos .txt de entrada.  
 O arquivo 'grafo.txt' é o arquivo de saída para gravar o conteúdo de um grafo dentro de um arquivo.  
